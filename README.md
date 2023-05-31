@@ -1,2 +1,2 @@
 # Projects
-Own projects done at home
+Simple coding excercises for practice
